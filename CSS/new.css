@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: green;
+}
+#a1{
+    color: black;
+    text-align: left;
+}
+.c1{
+    color: chocolate;
+    text-align: right;
+}
+#d1{
+    background-color: cyan;
+}
+#d2{
+    background-color: gold;
+}

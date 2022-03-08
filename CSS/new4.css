@@ -1,0 +1,13 @@
+#a1{
+    width:300px;
+    height: 200px;
+    background-color: coral;
+    position: relative;
+}
+#a2{
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    position: absolute;
+    margin-left: 50%;
+}

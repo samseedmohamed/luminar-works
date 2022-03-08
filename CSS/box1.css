@@ -1,0 +1,19 @@
+.col{
+    height: 100px;
+    width: 200px;
+    border: black 2px solid;
+}
+.col-1{
+    background-color: pink;
+}
+.col-2{
+    background-color: pink;
+    margin-left: 239px;
+    margin-top: -103px;
+
+}
+.col-3{
+    background-color: pink;
+    margin-left: 477px;
+    margin-top: -103px;
+}

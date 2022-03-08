@@ -1,0 +1,16 @@
+div :nth-child(1){
+    color: blue;
+}
+div :nth-child(2){
+    color: green;
+}
+div :nth-child(3){
+    color: indigo;
+}
+div :nth-child(4){
+    color: red;
+}
+body{
+    background-image: url("./images/e30_m3_050.jpg");
+    background-size: cover ;
+}

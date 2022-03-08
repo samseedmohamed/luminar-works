@@ -1,0 +1,116 @@
+h2{
+    margin-top: 10px;
+    margin-left: 474px;
+}
+.col{
+    height: 100px;
+    width: 80px;
+    border: black 1px solid;
+
+}
+.col-1{
+    background-color: #464343;
+    margin-left: 400px;
+    margin-top: -10px;
+    
+}
+.col-2{
+    background-color: #4d6453;
+    margin-left: 490px;
+    margin-top: -102px;
+}
+.col-3{
+    background-color: #4d8b65;
+    margin-left: 580px;
+    margin-top: -102px;
+}
+.col-4{
+    background-color: #1db345;
+    margin-left: 670px;
+    margin-top: -102px;
+}
+.col-5{
+    background-color: #eeb4df;
+    margin-left: 760px;
+    margin-top: -102px;
+}
+.col-6{
+    background-color: #f5ca09;
+    margin-left: 310px;
+    margin-top: 40px;
+}
+.col-7{
+    background-color: #f50909;
+    margin-left: 400px;
+    margin-top: -102px;
+}
+.col-8{
+    background-color: #9e2d3c;
+    margin-left: 490px;
+    margin-top: -102px;
+}
+.col-9{
+    background-color: #c5112f;
+    margin-left: 580px;
+    margin-top: -102px;
+}
+.col-10{
+    background-color: #f5097f;
+    margin-left: 670px;
+    margin-top: -102px;
+}
+.col-11{
+    background-color: #f509e1;
+    margin-left: 760px;
+    margin-top: -102px;
+}
+.col-12{
+    background-color: #bc0de7;
+    margin-left: 850px;
+    margin-top: -102px;
+}
+.col-13{
+    background-color: #6a4091;
+    margin-left: 220px;
+    margin-top: 40px;
+}
+.col-14{
+    background-color: #7e0fe6;
+    margin-left: 310px;
+    margin-top: -102px;
+}
+.col-15{
+    background-color: #590fe4;
+    margin-left: 400px;
+    margin-top: -102px;
+}
+.col-16{
+    background-color: #1404f1;
+    margin-left: 490px;
+    margin-top: -102px;
+}
+.col-17{
+    background-color: #5587e2;
+    margin-left: 580px;
+    margin-top: -102px;
+}
+.col-18{
+    background-color: #2faac0;
+    margin-left: 670px;
+    margin-top: -102px;
+}
+.col-19{
+    background-color: #0fe4c0;
+    margin-left: 760px;
+    margin-top: -102px;
+}
+.col-20{
+    background-color: #0fe461;
+    margin-left: 850px;
+    margin-top: -102px;
+}
+.col-21{
+    background-color: #64e40f;
+    margin-left: 940px;
+    margin-top: -102px;
+}

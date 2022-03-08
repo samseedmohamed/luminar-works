@@ -1,0 +1,18 @@
+div{
+    background-color: yellowgreen;
+    height: 100px;
+    width: 100px;
+}
+div:hover{
+    background-color: bisque;
+}
+button{
+    background-color: violet;
+    color: white;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+button:hover{
+    background-color: white;
+    color: violet;
+}
